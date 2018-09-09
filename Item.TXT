@@ -1,0 +1,25 @@
+Sword	2.5	600	100	51	gold	false	9.9	5.5	99.5	8	2	false	Avtar's	one hit kill
+dagger	1.9	90	100	91	gold	false	9.9	5.5	90.5	8	35	false	Berserk	one hit kill
+boots	1.2	120	100	92	gold	true	20	5	0	9	Super Fast	turn into the Flash
+shield	3.0	10	55	22	wood	false	20	5	0	9	Avtar's	Blockes almost everything
+dagger	1.0	90	100	91	silver	false	9.9	5.5	90.5	8	35	false	Berserk	one hit kill
+HealthPot	0.6	13	90	1001	99	15.0	5	false	Super
+dmgPot	0.2	60	100	1002	10	5.9	3	true	Sweet
+boots	1.7	120	100	92	silver	true	20	5	0	9	Slow	I like turtles
+shield	2.9	10	55	22	iron	false	20	5	0	9	Avtar's	Blockes almost everything
+dagger	0.9	90	100	91	silver	false	9.9	5.5	90.5	8	35	false	Jack's	Rusty
+boots	1.1	120	100	92	silver	true	20	5	0	9	Slow	I like turtles
+shield	3.0	10	55	22	steel	false	20	5	0	9	Super	Blockes everything
+HealthPot	0.6	13	90	1001	99	15.0	5	false	Super
+dmgPot	0.2	60	100	1002	10	5.9	3	true	Sweet
+dagger	1.9	90	100	91	silver	false	9.9	5.5	90.5	8	35	false	Jack's	Rusty
+boots	1.7	120	100	92	silver	true	20	5	0	9	Slow	I like turtles
+shield	2.0	10	55	22	steel	false	20	5	0	9	Super	Blockes everything
+HealthPot	0.6	13	90	1001	99	15.0	5	false	Super
+dmgPot	0.2	60	100	1002	10	5.9	3	true	Sweet
+dmgPot	0.2	60	100	1002	10	5.9	3	true	Sweet
+dagger	1.9	90	100	91	silver	false	9.9	5.5	90.5	8	35	false	Jack's	Rusty
+boots	1.7	120	100	92	silver	true	20	5	0	9	Slow	I like turtles
+shield	2.0	10	55	22	steel	false	20	5	0	9	Super	Blockes everything
+HealthPot	0.6	13	90	1001	99	15.0	5	false	Super
+dmgPot	0.2	60	100	1002	10	5.9	3	true	Sweet
